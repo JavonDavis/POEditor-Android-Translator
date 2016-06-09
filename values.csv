@@ -1,0 +1,28 @@
+Popular Movies,
+Settings,
+Popular Movies,
+Movie Detail,
+Movie poster,
+Movie Settings,
+/movie/popular,
+/movie/top_rated,
+/movie/favorites,
+Data &amp; sync,
+Sort order,
+
+        <item>By most popular</item>
+        <item>By top rated</item>
+        <item>Favorites</item>
+    ,
+
+        <item>@string/order_popular</item>
+        <item>@string/order_top_rated</item>
+        <item>@string/order_favorites</item>
+    ,
+Hello blank fragment,
+Reviews,
+Trailers,
+Share,
+Favorite,
+Unfavorite,
+Movie poster,
