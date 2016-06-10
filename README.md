@@ -61,7 +61,7 @@ the terms and got this
 
 ![Alt text](/screenshots/poeditorscreenshot3.png "POEditor Screenshot translation")
 
-Now let's export this, the exported data looks like this
+Now let's export this as a csv, the exported data looks like this
 
 ```
 Dog,Perro
