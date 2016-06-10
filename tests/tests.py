@@ -9,7 +9,7 @@ sys.path.insert(0, os.getcwd())
 
 FILE_PATH = "{}/app/strings.xml".format(os.getcwd())
 NAME_PATH = "{}/names.csv".format(os.getcwd())
-VALUES_PATH = "{}/values.csv".format(os.getcwd())
+VALUES_PATH = "{}/translation.csv".format(os.getcwd())
 
 
 class TestSuite(unittest.TestCase):

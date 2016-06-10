@@ -1,1 +1,1 @@
-app_name - s,action_settings - s,title_movie_list_popular - s,title_movie_detail - s,movie_poster - s,title_activity_settings - s,order_popular - s,order_top_rated - s,order_favorites - s,pref_header_data_sync - s,pref_title_sort_order - s,sort_orders_titles - sa(4),sort_orders_values - sa(3),hello_blank_fragment - s,reviews - s,trailers - s,share - s,favorite - s,unfavorite - s,movie_poster_content_description - s,
+name_dog - s,name_cat - s,name_prompt - s,age_prompt - s,rooms - sa(2)
