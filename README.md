@@ -20,7 +20,7 @@ Below is a snippet from a strings.xml file
 
 Now importing this into POEditor yields the following
 
-![Alt text](/screenshots/poeditorscreenshot1 "POEditor Screenshot")
+![Alt text](/screenshots/poeditorscreenshot1.png "POEditor Screenshot")
 
 Which is probably not what you want to translate
 
@@ -50,7 +50,7 @@ We get the actually values and POEditor does not support the string
 array tags but we still got those imported as well so that should 
 be a plus
 
-![Alt text](/screenshots/poeditorscreenshot2 "POEditor Screenshot Import")
+![Alt text](/screenshots/poeditorscreenshot2.png "POEditor Screenshot Import")
 
 ### Now this means nothing if we can't translate and get back our file
 
@@ -59,7 +59,7 @@ Let's do that!
 I used POEditor's awesome automatic translation feature and translated 
 the terms and got this
 
-![Alt text](/screenshots/poeditorscreenshot3 "POEditor Screenshot translation")
+![Alt text](/screenshots/poeditorscreenshot3.png "POEditor Screenshot translation")
 
 Now let's export this, the exported data looks like this
 
