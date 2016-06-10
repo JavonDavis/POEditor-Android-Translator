@@ -1,5 +1,5 @@
 # POEditor-Android-Translator
-Script to translate android strings.xml to a csv so that it can be imported into POEditor and then translate the identical csv with the translations back into a strings.xml file
+Script to translate android strings.xml to a csv so that it can be imported into [POEditor](https://poeditor.com/) and then translate the identical csv with the translations back into a strings.xml file
 
 ## Problem I had
 
@@ -18,7 +18,7 @@ Below is a snippet from a strings.xml file
 </resources>
 ```
 
-Now importing this into POEditor yields the following
+Now importing this into [POEditor](https://poeditor.com/) yields the following
 
 ![Alt text](/screenshots/poeditorscreenshot1.png "POEditor Screenshot")
 
@@ -40,13 +40,13 @@ strings.xml
 ```
 
 and two csv files should now be present in the directory one to be 
-imported into POEditor which is the values.csv
+imported into [POEditor](https://poeditor.com/) which is the values.csv
 and the other to be used to build back the csv with the translation
 names.csv
 
 Now let's import the values.csv into POEditor
 
-We get the actually values and POEditor does not support the string 
+We get the actually values and [POEditor](https://poeditor.com/) does not support the string 
 array tags but we still got those imported as well so that should 
 be a plus
 
