@@ -9,16 +9,13 @@ Movie Settings,
 /movie/favorites,
 Data &amp; sync,
 Sort order,
-
-        <item>By most popular</item>
-        <item>By top rated</item>
-        <item>Favorites</item>
-    ,
-
-        <item>@string/order_popular</item>
-        <item>@string/order_top_rated</item>
-        <item>@string/order_favorites</item>
-    ,
+By most popular,
+By top rated,
+Favorites,
+By date,
+@string/order_popular,
+@string/order_top_rated,
+@string/order_favorites,
 Hello blank fragment,
 Reviews,
 Trailers,
