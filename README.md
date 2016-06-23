@@ -26,7 +26,7 @@ Which is probably not what you want to translate
 
 ## Solution I made
 
-So instead we run the translate script with the translate option 
+Execute the translate script with the translate option 
 
 ```
 python translate.py -o translate
@@ -41,18 +41,18 @@ strings.xml
 
 and two csv files should now be present in the directory one to be 
 imported into [POEditor](https://poeditor.com/) which is the values.csv
-and the other to be used to build back the csv with the translation
+and the other to be used to rebuild the strings xml with the translation -
 names.csv
 
 Now let's import the values.csv into POEditor
 
-We get the actually values and [POEditor](https://poeditor.com/) does not support the string 
-array tags but we still got those imported as well so that should 
-be a plus
+We get the actually values and **note** [POEditor](https://poeditor.com/) **does not support the string 
+array tags** but we still got those imported as well so that should 
+be a plus!
 
 ![Alt text](/screenshots/poeditorscreenshot2.png "POEditor Screenshot Import")
 
-### Now this means nothing if we can't translate and get back our file
+### Rebuilding the Strings XML file
 
 Let's do that!
 
